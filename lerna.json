@@ -1,0 +1,6 @@
+{
+  "packages": [
+    "ui-snippet/*"
+  ],
+  "version": "0.0.0"
+}

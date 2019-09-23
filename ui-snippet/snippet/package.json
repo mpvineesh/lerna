@@ -1,0 +1,9 @@
+{
+  "name": "pcs-ui-snippets",
+  "version": "1.0.0",
+  "description": "Re usable PCS Ui Snippets",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
