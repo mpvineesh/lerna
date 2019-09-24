@@ -1,6 +1,6 @@
 {
   "name": "pcs-ui-snippets",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Re usable PCS Ui Snippets",
   "private": true,
   "devDependencies": {
