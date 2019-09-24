@@ -4,9 +4,6 @@
   ],
   "cacheDir": ".changelog",
   "command": {
-    "publish": {
-      "conventionalCommits": true
-    }
   },
   "version": "independent"
 }
