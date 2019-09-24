@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/mpvineesh/lerna/compare/pcs-ui-snippets@1.0.5...pcs-ui-snippets@1.0.6) (2019-09-24)
+
+
+### Bug Fixes
+
+* fixed lerna config ([7947e4b](https://github.com/mpvineesh/lerna/commit/7947e4b))
+
+
+
+
+
 ## [1.0.5](https://github.com/mpvineesh/lerna/compare/pcs-ui-snippets@1.0.4...pcs-ui-snippets@1.0.5) (2019-09-24)
 
 **Note:** Version bump only for package pcs-ui-snippets
