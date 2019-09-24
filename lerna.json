@@ -2,6 +2,11 @@
   "packages": [
     "ui-snippet/*"
   ],
-  "version": "1.0.0",
-  "cacheDir": ".changelog"
+  "cacheDir": ".changelog",
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  },
+  "version": "independent"
 }
