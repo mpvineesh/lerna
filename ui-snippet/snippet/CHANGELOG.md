@@ -10,8 +10,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * fixed bug 002 ([c140d75](https://github.com/mpvineesh/lerna/commit/c140d75))
 
-
-
-
-
-# Change Log

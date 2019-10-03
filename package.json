@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "my-test-package-js",
+  "version": "1.0.0",
   "devDependencies": {
     "lerna": "^3.16.4"
   },
