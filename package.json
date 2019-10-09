@@ -1,10 +1,10 @@
 {
   "name": "my-test-package-js",
-  "version": "1.0.0",
+  "version": "1.4.1",
   "devDependencies": {
     "lerna": "^3.16.4"
   },
   "repository": {
-    "url":"https://github.com/mpvineesh/lerna.git"
+    "url": "https://github.com/mpvineesh/lerna.git"
   }
 }
